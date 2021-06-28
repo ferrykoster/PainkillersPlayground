@@ -6,6 +6,6 @@ Follow below steps to join the Painkiller's Playground Minecraft server:
 2. Download the [CurseForge app](https://download.curseforge.com/)
 3. Click `Minecraft`
 4. Click `+ Create Custom Profile`
-5. Choose `Or import a previously created profile`
+5. Click `import a previously created profile`
 6. Select the zip file you downloaded in step 1
 7. Click `Play`
